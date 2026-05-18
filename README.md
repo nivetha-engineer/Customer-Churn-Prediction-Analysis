@@ -151,7 +151,7 @@ customer.csv
 
 Author
 
-Nive
+Nivetha
 
 ⭐ Support
 
