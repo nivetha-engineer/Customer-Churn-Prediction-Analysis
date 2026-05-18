@@ -41,7 +41,7 @@ The project includes:
 
 ## 📂 Project Structure
 
-customer_churn.py  
+customer_churn.ipynb  
 customer.csv
 
 ---
